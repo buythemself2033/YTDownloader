@@ -19,5 +19,5 @@ A simple command-line YouTube video/audio downloader written in C++ that utilize
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/buythemself2033/YTDownloader.git
+   git clone https://github.com/buythemself2033/YTDownloader
    cd YTDownloaader.cpp
